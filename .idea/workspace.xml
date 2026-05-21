@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="999b901d-87bc-4b2b-85ef-04d2a1f61809" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/bool_to_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/bool_to_int_false.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/boolean_empty_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/boolean_non_empty_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/boolean_zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/concatenate_after_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/division_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/float_string_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/float_to_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/float_to_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/int_to_bool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/int_to_float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/int_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/nested_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/string_addition_after_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/string_to_float.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/string_to_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/exercises/user_input_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_casting/type_casting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/age_check_boolean.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/age_check_boolean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/average_of_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/average_of_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/basic_arithmetic_with_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/basic_arithmetic_with_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/boolean_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/boolean_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/comparison_boolean.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/comparison_boolean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/even_number_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/even_number_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/name_length_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/name_length_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/password_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/password_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/personal_info_display.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/personal_info_display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/score_updater.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/score_updater.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/simple_interest_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/simple_interest_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/string_to_integer_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/string_to_integer_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/temperature_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/temperature_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/var.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/variable_swapper_challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables/exercises/variable_swapper_challenge.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YouDev025&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YouDev025/python-learning-journey.git&quot;,
+    &quot;accountId&quot;: &quot;7d683226-7aa5-4b8d-90f2-60f9a5696623&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3E2oWVpC4QzjY3ry1JlfTKpnVrB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.age_check_boolean.executor": "Run",
+    "Python.average_of_numbers.executor": "Run",
+    "Python.basic_arithmetic_with_variables.executor": "Run",
+    "Python.bool_to_int.executor": "Run",
+    "Python.bool_to_int_false.executor": "Run",
+    "Python.boolean_basics.executor": "Run",
+    "Python.boolean_empty_string.executor": "Run",
+    "Python.boolean_non_empty_string.executor": "Run",
+    "Python.boolean_zero.executor": "Run",
+    "Python.comparison_boolean.executor": "Run",
+    "Python.concatenate_after_casting.executor": "Run",
+    "Python.division_casting.executor": "Run",
+    "Python.even_number_check.executor": "Run",
+    "Python.float_string_conversion.executor": "Run",
+    "Python.float_to_bool.executor": "Run",
+    "Python.float_to_int.executor": "Run",
+    "Python.int_to_bool.executor": "Run",
+    "Python.int_to_float.executor": "Run",
+    "Python.int_to_string.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.name_length_finder.executor": "Run",
+    "Python.nested_casting.executor": "Run",
+    "Python.password_check.executor": "Run",
+    "Python.personal_info_display.executor": "Run",
+    "Python.score_updater.executor": "Run",
+    "Python.simple_interest_calculator.executor": "Run",
+    "Python.string_addition_after_casting.executor": "Run",
+    "Python.string_to_float.executor": "Run",
+    "Python.string_to_int.executor": "Run",
+    "Python.string_to_integer_conversion.executor": "Run",
+    "Python.temperature_converter.executor": "Run",
+    "Python.user_input_casting.executor": "Run",
+    "Python.var.executor": "Run",
+    "Python.variable_swapper_challenge.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Lenov/Desktop/python-learning-journey",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenov\Desktop\python-learning-journey\variables\exercises" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="999b901d-87bc-4b2b-85ef-04d2a1f61809" name="Changes" comment="" />
+      <created>1779386057060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779386057060</updated>
+    </task>
+    <servers />
+  </component>
+</project>
