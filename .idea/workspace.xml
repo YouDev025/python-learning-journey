@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999b901d-87bc-4b2b-85ef-04d2a1f61809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loops/exercises/count_letters_digits_spaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/exercises/print_square_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/exercises/print_triangle_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/exercises/skip_number_using_continu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops/exercises/stop_loop_using_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_positive_negative_or_zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_voting_eligibility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/compare_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/find_largest_of_three_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/if_statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,9 +79,14 @@
     "Python.boolean_zero.executor": "Run",
     "Python.calculate_sum_1_to_100.executor": "Run",
     "Python.ceiling_number.executor": "Run",
+    "Python.check_even_or_odd.executor": "Run",
+    "Python.check_password.executor": "Run",
+    "Python.check_positive_negative_or_zero.executor": "Run",
+    "Python.check_voting_eligibility.executor": "Run",
     "Python.circle_area.executor": "Run",
     "Python.circle_circumference.executor": "Run",
     "Python.city_uppercase.executor": "Run",
+    "Python.compare_two_numbers.executor": "Run",
     "Python.comparison_boolean.executor": "Run",
     "Python.concatenate_after_casting.executor": "Run",
     "Python.convert_seconds.executor": "Run",
