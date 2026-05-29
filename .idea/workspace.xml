@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999b901d-87bc-4b2b-85ef-04d2a1f61809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_positive_negative_or_zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_voting_eligibility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/compare_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/find_largest_of_three_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/if_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/grade_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/simple_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_statements/exercises/find_largest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_statements/exercises/find_largest_of_three_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +77,7 @@
     "Python.calculate_sum_1_to_100.executor": "Run",
     "Python.ceiling_number.executor": "Run",
     "Python.check_even_or_odd.executor": "Run",
+    "Python.check_leap_year.executor": "Run",
     "Python.check_password.executor": "Run",
     "Python.check_positive_negative_or_zero.executor": "Run",
     "Python.check_voting_eligibility.executor": "Run",
@@ -102,12 +100,14 @@
     "Python.factorial.executor": "Run",
     "Python.favorite_color_check.executor": "Run",
     "Python.find_largest_number.executor": "Run",
+    "Python.find_largest_of_three_numbers.executor": "Run",
     "Python.float_string_conversion.executor": "Run",
     "Python.float_to_bool.executor": "Run",
     "Python.float_to_int.executor": "Run",
     "Python.floor_division.executor": "Run",
     "Python.floor_number.executor": "Run",
     "Python.full_name_creator.executor": "Run",
+    "Python.grade_calculator.executor": "Run",
     "Python.guess_the_secret_number.executor": "Run",
     "Python.half_number.executor": "Run",
     "Python.int_to_bool.executor": "Run",
