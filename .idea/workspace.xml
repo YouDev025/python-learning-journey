@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999b901d-87bc-4b2b-85ef-04d2a1f61809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_leap_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/grade_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/simple_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_divisible_by_five_and_three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_number_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_vowel_or_consonant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/login_with_attempts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/ticket_price_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/username_and_password_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements/exercises/weather_advice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_statements/exercises/find_largest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_statements/exercises/find_largest_of_three_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_statements/exercises/simple_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_statements/exercises/simple_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +80,14 @@
     "Python.boolean_zero.executor": "Run",
     "Python.calculate_sum_1_to_100.executor": "Run",
     "Python.ceiling_number.executor": "Run",
+    "Python.check_divisible_by_five_and_three.executor": "Run",
     "Python.check_even_or_odd.executor": "Run",
     "Python.check_leap_year.executor": "Run",
+    "Python.check_number_range.executor": "Run",
     "Python.check_password.executor": "Run",
     "Python.check_positive_negative_or_zero.executor": "Run",
     "Python.check_voting_eligibility.executor": "Run",
+    "Python.check_vowel_or_consonant.executor": "Run",
     "Python.circle_area.executor": "Run",
     "Python.circle_circumference.executor": "Run",
     "Python.city_uppercase.executor": "Run",
@@ -115,6 +122,7 @@
     "Python.int_to_string.executor": "Run",
     "Python.logarithm.executor": "Run",
     "Python.login_system.executor": "Run",
+    "Python.login_with_attempts.executor": "Run",
     "Python.main.executor": "Run",
     "Python.modulus_remainder.executor": "Run",
     "Python.multiple_numbers_map.executor": "Run",
@@ -153,6 +161,7 @@
     "Python.student_information_system.executor": "Run",
     "Python.swap_two_numbers.executor": "Run",
     "Python.temperature_converter.executor": "Run",
+    "Python.ticket_price_calculator.executor": "Run",
     "Python.two_number_addition.executor": "Run",
     "Python.two_number_division.executor": "Run",
     "Python.two_number_multiplication.executor": "Run",
@@ -160,6 +169,7 @@
     "Python.user_age_input.executor": "Run",
     "Python.user_input_casting.executor": "Run",
     "Python.user_name_input.executor": "Run",
+    "Python.username_and_password_checker.executor": "Run",
     "Python.username_stri.executor": "Run",
     "Python.var.executor": "Run",
     "Python.variable_swapper_challenge.executor": "Run",
