@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999b901d-87bc-4b2b-85ef-04d2a1f61809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_divisible_by_five_and_three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_number_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/check_vowel_or_consonant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/login_with_attempts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/ticket_price_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/username_and_password_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_statements/exercises/weather_advice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/access_granted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/admin_or_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/between_18_and_60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/can_vote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/eligible_for_discount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/passing_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/user_not_banned.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/valid_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/weekend_or_holiday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators/logical_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_statements/exercises/simple_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_statements/exercises/simple_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.User_input.executor": "Run",
     "Python.absolute_value.executor": "Run",
+    "Python.access_granted.executor": "Run",
     "Python.add_three_numbers.executor": "Run",
+    "Python.admin_or_manager.executor": "Run",
     "Python.adult_checker.executor": "Run",
     "Python.age_check_boolean.executor": "Run",
     "Python.average_of_numbers.executor": "Run",
@@ -72,6 +76,7 @@
     "Python.basic_arithmetic_with_variables.executor": "Run",
     "Python.basic_multiplication.executor": "Run",
     "Python.basic_subtraction.executor": "Run",
+    "Python.between_18_and_60.executor": "Run",
     "Python.bool_to_int.executor": "Run",
     "Python.bool_to_int_false.executor": "Run",
     "Python.boolean_basics.executor": "Run",
@@ -79,6 +84,7 @@
     "Python.boolean_non_empty_string.executor": "Run",
     "Python.boolean_zero.executor": "Run",
     "Python.calculate_sum_1_to_100.executor": "Run",
+    "Python.can_vote.executor": "Run",
     "Python.ceiling_number.executor": "Run",
     "Python.check_divisible_by_five_and_three.executor": "Run",
     "Python.check_even_or_odd.executor": "Run",
@@ -102,6 +108,7 @@
     "Python.divide_two_numbers.executor": "Run",
     "Python.division_casting.executor": "Run",
     "Python.double_number.executor": "Run",
+    "Python.eligible_for_discount.executor": "Run",
     "Python.even_number_check.executor": "Run",
     "Python.even_or_odd_checker.executor": "Run",
     "Python.factorial.executor": "Run",
@@ -131,6 +138,7 @@
     "Python.name_length_finder.executor": "Run",
     "Python.nested_casting.executor": "Run",
     "Python.number_guess_loop.executor": "Run",
+    "Python.passing_exam.executor": "Run",
     "Python.password_check.executor": "Run",
     "Python.password_checker.executor": "Run",
     "Python.personal_info_display.executor": "Run",
@@ -169,10 +177,14 @@
     "Python.user_age_input.executor": "Run",
     "Python.user_input_casting.executor": "Run",
     "Python.user_name_input.executor": "Run",
+    "Python.user_not_banned.executor": "Run",
     "Python.username_and_password_checker.executor": "Run",
     "Python.username_stri.executor": "Run",
+    "Python.valid_login.executor": "Run",
     "Python.var.executor": "Run",
     "Python.variable_swapper_challenge.executor": "Run",
+    "Python.weather_advice.executor": "Run",
+    "Python.weekend_or_holiday.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
