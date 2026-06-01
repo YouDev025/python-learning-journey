@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="999b901d-87bc-4b2b-85ef-04d2a1f61809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/access_granted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/admin_or_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/between_18_and_60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/can_vote.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/eligible_for_discount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/passing_exam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/user_not_banned.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/valid_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/exercises/weekend_or_holiday.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators/logical_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/conditional_expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/access_granted_or_denied.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/adult_or_minor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/divisible_by_five.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/larger_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/login_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/pass_or_fail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/positive_or_negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/range_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional_expressions/exercises/smaller_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +67,11 @@
     "Python.User_input.executor": "Run",
     "Python.absolute_value.executor": "Run",
     "Python.access_granted.executor": "Run",
+    "Python.access_granted_or_denied.executor": "Run",
     "Python.add_three_numbers.executor": "Run",
     "Python.admin_or_manager.executor": "Run",
     "Python.adult_checker.executor": "Run",
+    "Python.adult_or_minor.executor": "Run",
     "Python.age_check_boolean.executor": "Run",
     "Python.average_of_numbers.executor": "Run",
     "Python.average_of_three.executor": "Run",
@@ -106,10 +109,12 @@
     "Python.count_vowels_in_word.executor": "Run",
     "Python.cube_number.executor": "Run",
     "Python.divide_two_numbers.executor": "Run",
+    "Python.divisible_by_five.executor": "Run",
     "Python.division_casting.executor": "Run",
     "Python.double_number.executor": "Run",
     "Python.eligible_for_discount.executor": "Run",
     "Python.even_number_check.executor": "Run",
+    "Python.even_or_odd.executor": "Run",
     "Python.even_or_odd_checker.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.favorite_color_check.executor": "Run",
@@ -127,7 +132,9 @@
     "Python.int_to_bool.executor": "Run",
     "Python.int_to_float.executor": "Run",
     "Python.int_to_string.executor": "Run",
+    "Python.larger_number.executor": "Run",
     "Python.logarithm.executor": "Run",
+    "Python.login_status.executor": "Run",
     "Python.login_system.executor": "Run",
     "Python.login_with_attempts.executor": "Run",
     "Python.main.executor": "Run",
@@ -138,11 +145,13 @@
     "Python.name_length_finder.executor": "Run",
     "Python.nested_casting.executor": "Run",
     "Python.number_guess_loop.executor": "Run",
+    "Python.pass_or_fail.executor": "Run",
     "Python.passing_exam.executor": "Run",
     "Python.password_check.executor": "Run",
     "Python.password_checker.executor": "Run",
     "Python.personal_info_display.executor": "Run",
     "Python.pi_value.executor": "Run",
+    "Python.positive_or_negative.executor": "Run",
     "Python.power_function.executor": "Run",
     "Python.power_of_two_numbers.executor": "Run",
     "Python.print_even_numbers.executor": "Run",
@@ -150,6 +159,7 @@
     "Python.print_odd_numbers.executor": "Run",
     "Python.print_square_pattern.executor": "Run",
     "Python.print_triangle_pattern.executor": "Run",
+    "Python.range_check.executor": "Run",
     "Python.rectangle_area.executor": "Run",
     "Python.rectangle_perimeter.executor": "Run",
     "Python.reverse_a_string.executor": "Run",
@@ -159,6 +169,7 @@
     "Python.simple_circle_area.executor": "Run",
     "Python.simple_interest_calculator.executor": "Run",
     "Python.skip_number_using_continu.executor": "Run",
+    "Python.smaller_number.executor": "Run",
     "Python.square_number.executor": "Run",
     "Python.square_root.executor": "Run",
     "Python.stop_loop_using_break.executor": "Run",
